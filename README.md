@@ -2,3 +2,4 @@
 Git Examples
 Git test
 Нет текста
+Новый текст
